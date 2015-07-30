@@ -1,0 +1,40 @@
+{
+  "name": "101atron",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dariusk/101atron",
+  "author": {
+    "name": "Kazemi, Darius",
+    "email": "darius.kazemi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dariusk/101atron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dariusk/101atron/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dariusk/101atron/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "google-spreadsheet": "^0.3.1",
+    "redis": "^0.12.1",
+    "request": "^2.58.0",
+    "twit": "^1.1.20",
+    "underscore": "~1.5.1",
+    "underscore.deferred": "~0.4.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-notify": "~0.2.18"
+  },
+  "keywords": []
+}
