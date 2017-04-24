@@ -11,7 +11,7 @@ For a general overview of its use, [check out this article](http://feeltrain.com
 To install and run 101atron you need the following software:
 
 * [Node.js](https://nodejs.org/) v0.10+.
-* [redis](http://redis.io/). This is the database software used to track state.
+* [redis](https://redis.io/topics/quickstart). This is the database software used to track state.
 
 This has only been tested on OSX and Ubuntu 14.04 LTS. It might work on Windows but I haven't checked.
 
